@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP BFG135
-D Transistor NPN, collector connected to mounting plane (general)
-K npn transistor
-$ENDCMP
-#
-#End Doc Library
